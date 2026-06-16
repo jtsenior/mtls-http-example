@@ -1,5 +1,7 @@
 # mTLS HTTP Example (Java)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Bare-bones example of making an HTTP call with mutual TLS using only the JDK's
 built-in `java.net.http.HttpClient` — no external libraries.
 
